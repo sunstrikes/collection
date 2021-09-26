@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "(lldb) launch debug",
+            "type": "lldb",
+            "request": "launch",
+            //"preLaunchTask": "make build",
+            "program": "${workspaceFolder}/build/p_sparse",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "miDebuggerPath": "/Users/sunminqi/.vscode/extensions/ms-vscode.cpptools-1.6.0/debugAdapters/lldb-mi/bin/lldb-mi"
+        }
+    ]
+}

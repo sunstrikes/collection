@@ -1,0 +1,15 @@
+{
+	"C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+	"files.associations": {
+		"unordered_map": "cpp",
+		"dense": "cpp",
+		"core": "cpp",
+		"geometry": "cpp",
+		"lu": "cpp",
+		"cholesky": "cpp",
+		"svd": "cpp",
+		"qr": "cpp",
+		"vector": "cpp",
+		"__config": "cpp"
+	}
+}
